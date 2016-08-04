@@ -1,2 +1,2 @@
 # hema-database
-A gene expression database of hematopoietic stem cells
+A gene expression database of hematopoietic stem cells.
